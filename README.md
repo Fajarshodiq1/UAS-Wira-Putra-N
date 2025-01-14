@@ -21,3 +21,21 @@ ToDoList is a mobile application built with React Native that helps users manage
 ```bash
    Copy code
    npm install
+```
+3.**Start the application**:
+
+```bash
+   npx expo start
+```
+Follow the on-screen instructions to run the app on an emulator or physical device.
+
+## Technologies Used
+
+React Native: For building the mobile application.
+Expo: For development and building.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any inquiries or feedback, please contact NostalgicWinters.
