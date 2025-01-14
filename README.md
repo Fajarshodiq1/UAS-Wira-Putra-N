@@ -1,50 +1,44 @@
-# Welcome to your Expo app 👋
+# ToDoList
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+ToDoList is a mobile application built with React Native that helps users manage their daily tasks efficiently.
 
-## Get started
+## Features
 
-1. Install dependencies
+- **Task Management**: Add, edit, and delete tasks to keep track of your to-do items.
+- **Due Dates**: Assign due dates to tasks to ensure timely completion.
+- **Notifications**: Receive reminders for upcoming tasks.
+- **Categorization**: Organize tasks into categories for better management.
+
+## Installation
+
+1. **Clone the repository**:
 
    ```bash
-   npm install
-   ```
+   git clone https://github.com/NostalgicWinters/ToDoList.git
+   cd ToDoList
+Install dependencies:
 
-2. Start the app
+bash
+Copy code
+npm install
+Start the application:
 
-   ```bash
-    npx expo start
-   ```
+bash
+Copy code
+npx expo start
+Follow the on-screen instructions to run the app on an emulator or physical device.
 
-In the output, you'll find options to open the app in a
+Technologies Used
+React Native: For building the mobile application.
+Expo: For development and building.
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Contact
+For any inquiries or feedback, please contact NostalgicWinters.
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+bash
+Copy code
