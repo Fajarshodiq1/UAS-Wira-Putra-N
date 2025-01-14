@@ -34,8 +34,5 @@ Follow the on-screen instructions to run the app on an emulator or physical devi
 React Native: For building the mobile application.
 Expo: For development and building.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 For any inquiries or feedback, please contact NostalgicWinters.
