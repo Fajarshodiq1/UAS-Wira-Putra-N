@@ -16,29 +16,8 @@ ToDoList is a mobile application built with React Native that helps users manage
    ```bash
    git clone https://github.com/NostalgicWinters/ToDoList.git
    cd ToDoList
-Install dependencies:
+2. **Install dependencies**:
 
-bash
-Copy code
-npm install
-Start the application:
-
-bash
-Copy code
-npx expo start
-Follow the on-screen instructions to run the app on an emulator or physical device.
-
-Technologies Used
-React Native: For building the mobile application.
-Expo: For development and building.
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any inquiries or feedback, please contact NostalgicWinters.
-
-bash
-Copy code
+```bash
+   Copy code
+   npm install
