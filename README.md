@@ -1,38 +1,37 @@
-# ToDoList
+# UAS Pemrograman Perangkat Bergerak Membuat Aplikasi Daily Planner Sederhana
 
-ToDoList is a mobile application built with React Native that helps users manage their daily tasks efficiently.
+Daily Planner adalah aplikasi mobile yang dibangun dengan React Native yang membantu pengguna mengelola tugas sehari-hari dengan efisien.
 
-## Features
+## Fitur
 
-- **Task Management**: Add, edit, and delete tasks to keep track of your to-do items.
-- **Due Dates**: Assign due dates to tasks to ensure timely completion.
-- **Notifications**: Receive reminders for upcoming tasks.
-- **Categorization**: Organize tasks into categories for better management.
+- **Manajemen Tugas**: Menambah, mengedit, dan menghapus tugas untuk melacak item yang perlu dilakukan.
+- **Tanggal Jatuh Tempo**: Menetapkan tanggal jatuh tempo untuk tugas guna memastikan penyelesaian tepat waktu.
+- **Notifikasi**: Menerima pengingat untuk tugas yang akan datang.
+- **Kategorisasi**: Mengorganisir tugas ke dalam kategori untuk manajemen yang lebih baik.
 
-## Installation
+## Instalasi
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/NostalgicWinters/ToDoList.git
-   cd ToDoList
+   git clone <Link Projek>
+   cd Nama Projek
+   ```
+
 2. **Install dependencies**:
 
 ```bash
    Copy code
    npm install
 ```
+
 3.**Start the application**:
 
 ```bash
    npx expo start
 ```
-Follow the on-screen instructions to run the app on an emulator or physical device.
 
-## Technologies Used
+## Teknologi yang digunakan
 
-React Native: For building the mobile application.
-Expo: For development and building.
-
-## Contact
-For any inquiries or feedback, please contact NostalgicWinters.
+React Native: Untuk membangun aplikasi mobile.
+Expo: Untuk pengembangan dan pembuatan aplikasi.
