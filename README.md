@@ -35,3 +35,7 @@ Daily Planner adalah aplikasi mobile yang dibangun dengan React Native yang memb
 
 React Native: Untuk membangun aplikasi mobile.
 Expo: Untuk pengembangan dan pembuatan aplikasi.
+
+## Dokumentasi
+
+![1](asset/Screenshot_1.png)
